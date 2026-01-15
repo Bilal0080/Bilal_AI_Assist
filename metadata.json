@@ -1,0 +1,9 @@
+{
+  "name": "Bilal AI Assist",
+  "description": "A professional AI-powered travel assistant providing real-time voice translation, visual road analysis, and live map grounding.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
